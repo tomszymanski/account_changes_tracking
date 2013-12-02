@@ -8,5 +8,6 @@ run = Calc.new(USERS_DONE)
 
 puts "RATE: #{run.user_processing_rate}"
 puts "ESTIMATED_COMPLETION_TIME: #{run.completion_time}"
+puts "ELAPSED TIME: #{run.elapsed_time}"
 
 Action.add(USERS_DONE)

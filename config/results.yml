@@ -2,37 +2,13 @@
 results:
 - !ruby/object:Result
   users_processed: 0
-  time: 2013-11-01 12:05:00.000000000 -06:00
+  time: 2013-12-01 12:00:00.000000000 -07:00
 - !ruby/object:Result
-  users_processed: 575422
-  time: 2013-11-01 15:51:00.000000000 -06:00
+  users_processed: 558892
+  time: 2013-12-01 12:55:20.749743000 -07:00
 - !ruby/object:Result
-  users_processed: 684613
-  time: 2013-11-01 16:24:00.000000000 -06:00
+  users_processed: 661030
+  time: 2013-12-01 12:57:58.363389000 -07:00
 - !ruby/object:Result
-  users_processed: 701707
-  time: 2013-11-01 16:29:00.000000000 -06:00
-- !ruby/object:Result
-  users_processed: 723586
-  time: 2013-11-01 16:36:00.000000000 -06:00
-- !ruby/object:Result
-  users_processed: 735718
-  time: 2013-11-01 16:39:00.000000000 -06:00
-- !ruby/object:Result
-  users_processed: 780244
-  time: 2013-11-01 16:52:00.000000000 -06:00
-- !ruby/object:Result
-  users_processed: 881083
-  time: 2013-11-01 17:18:00.000000000 -06:00
-- !ruby/object:Result
-  users_processed: 904544
-  time: 2013-11-01 17:33:00.000000000 -06:00
-- !ruby/object:Result
-  users_processed: 907862
-  time: 2013-11-01 17:37:00.000000000 -06:00
-- !ruby/object:Result
-  users_processed: 915447
-  time: 2013-11-01 17:45:00.000000000 -06:00
-- !ruby/object:Result
-  users_processed: 919490
-  time: 2013-11-01 17:50:00.000000000 -06:00
+  users_processed: 929817
+  time: 2013-12-01 13:22:51.541887000 -07:00
